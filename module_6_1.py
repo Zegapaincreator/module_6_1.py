@@ -1,5 +1,3 @@
-# Bogushev V.V.
-
 class Animal:
     alive = True
     fed = False
